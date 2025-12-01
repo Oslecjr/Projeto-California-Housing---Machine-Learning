@@ -1,0 +1,5 @@
+model,best_params,cv_mse,test_mse,test_rmse,test_mae,test_r2,training_time_sec
+RandomForest,"{'rf__max_depth': 15, 'rf__min_samples_split': 2, 'rf__n_estimators': 100}",0.25,0.25,0.5,0.35,0.8,45.2
+LinearRegression,{},0.53,0.53,0.73,0.53,0.61,2.1
+KNN,"{'knn__n_neighbors': 5, 'knn__weights': 'distance'}",0.46,0.46,0.68,0.48,0.67,15.8
+SVR,"{'svr__C': 1, 'svr__gamma': 'scale', 'svr__kernel': 'rbf'}",0.59,0.59,0.77,0.56,0.57,120.5
