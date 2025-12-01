@@ -1,5 +1,8 @@
 # 🏠 Projeto California Housing - Machine Learning
 
+##Link do COLAB:
+https://colab.research.google.com/drive/102zYtBNFtsaUqZbJXucQFVnJTYO7pfC9?usp=sharing
+
 ## 📋 Descrição
 Projeto acadêmico para previsão de preços de imóveis na Califórnia usando múltiplos algoritmos de Machine Learning, desenvolvido para a disciplina de Programação Avançada.
 
