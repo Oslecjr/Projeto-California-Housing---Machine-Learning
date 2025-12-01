@@ -1,0 +1,30 @@
+RESULTADOS DO PROJETO CALIFORNIA HOUSING
+==================================================
+
+Modelo: RandomForest
+  RMSE: 0.5000
+  R²: 0.8000
+  MAE: 0.3500
+  Tempo: 45.20s
+------------------------------
+
+Modelo: LinearRegression
+  RMSE: 0.7300
+  R²: 0.6100
+  MAE: 0.5300
+  Tempo: 2.10s
+------------------------------
+
+Modelo: KNN
+  RMSE: 0.6800
+  R²: 0.6700
+  MAE: 0.4800
+  Tempo: 15.80s
+------------------------------
+
+Modelo: SVR
+  RMSE: 0.7700
+  R²: 0.5700
+  MAE: 0.5600
+  Tempo: 120.50s
+------------------------------
